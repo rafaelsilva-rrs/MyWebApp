@@ -5,5 +5,6 @@ Project resulting from the study of the [video](https://youtu.be/u8a25mQcMOI) on
 
 ![Diagram](https://github.com/rafaelsilva-rrs/MyWebApp/blob/main/um.svg)
 
-__Technologies used:__ Spring Boot Web, Spring Data JPA & Hibernate, MySQL Database, Thymeleaf, HTML5 & Bootstrap, JUnit 5 & AssertJ, Spring Data JPA Test
-__IDE:__ IntelliJ IDEA
+__Technologies used:__ Spring Boot Web, Spring Data JPA & Hibernate, MySQL Database, Thymeleaf, HTML5 & Bootstrap, JUnit 5 & AssertJ, Spring Data JPA Test.
+
+__IDE:__ IntelliJ IDEA.
